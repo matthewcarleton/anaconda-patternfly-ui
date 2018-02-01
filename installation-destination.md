@@ -5,10 +5,12 @@ The installation destination page is revised to show more emphasis on the select
 ### Things to still be considered
 - This page shows an example of inline help icons.
 - Partitioning
+- Multiple drives chosen. How does this information get presented in the summary?
 - Do we need to include a refresh option on this page?
 
 ## Installation destination with action required.
 ![Installation Destination](assets/imgs/4-installation-destination.jpg)
+![Installation Destination](assets/imgs/4.3-installation-destination.jpg)
 ## Installation destination with confirmation.
 ![Installation Destination](assets/imgs/4.1-installation-destination.jpg)
 ## Installation destination with boot loader/disk details popup.
