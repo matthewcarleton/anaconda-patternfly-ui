@@ -11,6 +11,6 @@ When the selected items exceed the available space a dialog appears that encoura
 - Filtering/search should be added but not sure about having it on both available and selected. This will be influenced by the package depth we decide on.
 - The expanded selected items still need more consideration.
 ## Software selection with selections
-![Software Selection](assets/imgs/7-Software-selection.jpg)
-## Software selection with error
-![Software Selection](assets/imgs/7.1-software-selection-error.jpg)
+![Software Selection](assets/imgs/Software-selection-proceed.jpg)
+## Software selection with action required
+![Software Selection](assets/imgs/7.1-software-selection-action-required.jpg)
