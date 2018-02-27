@@ -9,11 +9,11 @@ The language selection will have a list of the most likely choices based on loca
 ### Help menu
 On the introduction page the help option is highlighted with a "we're here to help". This would only exist on this page.
 
-### Things to still be considered
+### Things to consider
 - Subscription management
 - option to add a kickstart type script to preset software selection etc.
 
-### screen shots
+#### Language selection process
 
 ![Welcome screen](assets/imgs/Welcome-select-lang.jpg)
 
