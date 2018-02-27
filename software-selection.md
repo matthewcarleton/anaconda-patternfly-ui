@@ -13,4 +13,4 @@ When the selected items exceed the available space a dialog appears that encoura
 ## Software selection with selections
 ![Software Selection](assets/imgs/Software-selection-proceed.jpg)
 ## Software selection with action required
-![Software Selection](assets/imgs/7.1-software-selection-action-required.jpg)
+![Software Selection](assets/imgs/Software-selection-action-required.jpg)

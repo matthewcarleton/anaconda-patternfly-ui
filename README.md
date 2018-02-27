@@ -14,7 +14,7 @@ The purpose of theses docs is to provide an up to date record of the current des
 - **First Steps**
   - [Welcome/Language selection](Introduction.md)
   - Network Setup
-  - Login/kickstart options
+  - [Login/kickstart options](login.md)
   - [System Scan](system-scan.md)
 - **Localization**
   - Date and time

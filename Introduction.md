@@ -15,6 +15,6 @@ On the introduction page the help option is highlighted with a "we're here to he
 
 ### screen shots
 
-![Welcome screen](assets/imgs/Welcome.jpg)
+![Welcome screen](assets/imgs/Welcome-select-lang.jpg)
 
 ![Welcome screen](assets/imgs/Welcome-proceed.jpg)

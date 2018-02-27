@@ -4,7 +4,8 @@ The purpose of this screen is to acknowledge and bring to attention the system s
 
 ### Things to still be considered
 
-Below are two options for system scan. Through this process I have begun to wonder if we need to present this or if the icons along with the welcome language will confirm this.
+Below are two options for system scan. Through this process I have begun to wonder if we need to present this or if the icons along with the welcome language that explains the overall process will be enough of a confirmation.
 
 ![Full System Scan Screen](assets/imgs/System-scan.jpg)
-![System Scan in sidebar](assets/imgs/Welcome.jpg)
+
+![System Scan in sidebar](assets/imgs/System-scan-alternative.jpg)
