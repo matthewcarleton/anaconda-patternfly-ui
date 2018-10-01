@@ -10,7 +10,6 @@ The language selection will have a list of the most likely choices based on loca
 On the introduction page the help option is highlighted with a "we're here to help". This would only exist on this page.
 
 ### Things to consider
-- Subscription management
 - option to add a kickstart type script to preset software selection etc.
 
 #### Language selection process
