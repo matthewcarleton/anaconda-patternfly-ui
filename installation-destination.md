@@ -10,7 +10,6 @@ The installation destination page is revised to show more emphasis on the select
 
 #### Installation destination with action required.
 ![Installation Destination](assets/imgs/Installer-screens-fedora-install-destination.jpg)
-![Installation Destination](assets/imgs/Installation-destination-choose-disk.jpg)
 #### Installation destination with confirmation.
 ![Installation Destination](assets/imgs/Installer-screens-fedora-install-destination-success.jpg)
 #### Installation destination with boot loader/disk details popup.
