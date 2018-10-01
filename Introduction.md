@@ -15,6 +15,6 @@ On the introduction page the help option is highlighted with a "we're here to he
 
 #### Language selection process
 
-![Welcome screen](assets/imgs/Welcome-select-lang.jpg)
+![Welcome screen](assets/imgs/Installer-screens-fedora-welcome-1.jpg)
 
-![Welcome screen](assets/imgs/Welcome-proceed.jpg)
+![Welcome screen](assets/imgs/Installer-screens-fedora-welcome-2.jpg)
