@@ -10,7 +10,10 @@ When the selected items exceed the available space a dialog appears that encoura
 - We still need to determine if the package level access will be available.
 - Filtering/search should be added but not sure about having it on both available and selected. This will be influenced by the package depth we decide on.
 - The expanded selected items still need more consideration.
-#### Software selection with selections
-![Software Selection](assets/imgs/Software-selection-proceed.jpg)
 #### Software selection with action required
-![Software Selection](assets/imgs/Software-selection-action-required.jpg)
+![Software Selection]
+(assets/imgs/Installer-screens-fedora-software-selection-action-required.jpg)
+#### Software selection with selections
+![Software Selection]
+(assets/imgs/Installer-screens-fedora-software-selection-proceed.jpg)
+
