@@ -9,7 +9,7 @@ The installation destination page is revised to show more emphasis on the select
 - Do we need to include a refresh option on this page?
 
 #### Installation destination with action required.
-![Installation Destination](assets/imgs/Installer-screens-fedora-install-destination.jpg)
+![Installation Destination](assets/imgs/Installer-screens-fedora-install-destination-success-action-required.jpg)
 #### Installation destination with confirmation.
 ![Installation Destination](assets/imgs/Installer-screens-fedora-install-destination-success.jpg)
 #### Installation destination with boot loader/disk details popup.
